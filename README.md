@@ -1,19 +1,7 @@
-Hologram [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](http://mit-license.org) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/andyduboc/5usd)
-==========
+# Glowing Object and Hologram Shader
 
-Hologram is a simple shader made in Unity.<br>
-This package is composed of a shader and a custom material editor to tweak the effect. 
+![Glowing Object and Hologram Shader GIF]()
 
- ![screenshot](Screenshots/screen00.gif)
- 
-Material
--------
+## Overview
 
-It is a composition of multiples effects, you can toggle it directly from this inspector:
-
- ![screenshot](http://i.imgur.com/8AWSkCZ.png)
-
- License
--------
-
-MIT, see [LICENSE](LICENSE) for details.
+    This shader was originally created by andydbc as a Hologram Shader.  It has been modified to work as a Glowing Object Shader.
